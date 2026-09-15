@@ -304,3 +304,4 @@ def random_menu():
                   print ("\nYou din't enter any items.")
 
               elif choice =="5":          
+              raw = safe_input
