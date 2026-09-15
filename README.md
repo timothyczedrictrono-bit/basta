@@ -301,4 +301,6 @@ def random_menu():
                   print(f"nYour list: {items}")
                   print(f'nrandom.choice (list) picked: {random.choice(items)}")
               else:
-                  print
+                  print ("\nYou din't enter any items.")
+
+              elif choice =="5":          
